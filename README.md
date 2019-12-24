@@ -5,7 +5,8 @@ Project created on 24/12/2019
 Bikeshare data exploration
 
 ### Description
-Describe what your project is about and what it does
+The project is about analysing data collected from a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. The data we are analysing here concerns three main cities: Chicago New York City, and Washington, DC.
+
 
 ### Files used
 Include the files used
