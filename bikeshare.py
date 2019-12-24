@@ -174,13 +174,13 @@ def user_stats(df):
         print(gender)
 
         # display earliest, most recent, and most common year of birth
-        earliest_b_year = df['Birth Year'].min()
-        most_recent_b_year = df['Birth Year'].max()
-        most_common_birth_year = df['Birth Year'].mode()[0]
+        earliest_birth_year = df['Birth Year'].min()
+        most_recent_birth_year = df['Birth Year'].max()
+        most_common_b_year = df['Birth Year'].mode()[0]
         
-        print("The earliest Birth Year : ", earliest_b_year)
-        print("The most recent Birth Year : ", most_recent_b_year)
-        print("The most common Birth Year : ", most_common_birth_year)
+        print("The earliest Birth Year : ", earliest_birth_year)
+        print("The most recent Birth Year : ", most_recent_birth_year)
+        print("The most common Birth Year : ", most_common_b_year)
     except:
         print("Sorry no statistics availaible for the columns 'Gender' and 'Birth Year' on this data file ! ")
 
