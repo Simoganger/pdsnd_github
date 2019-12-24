@@ -10,11 +10,8 @@ The project is about analysing data collected from a bike share system provider 
 
 ### Files used
 The files used in this project are :
-1. ```bikeshare.py``` : contains the main code
-2. ```chicago.csv``` : contais the data for Chicago
-3. ```new_york_city.csv``` : contains data for New York
-4. ```washington.csv``` : contains data for Washington
-5. ```README.md``` : describe the contain of the project
+1. ```bikeshare.py``` : contains the main code that has to be launched using the command ```python bikeshare.py``` to run the code.
+2. ```README.md``` : describe the contain of the project
 
 ### Credits
 I used 1 book and 8 online links. These references are outlines as follow :
